@@ -32,6 +32,12 @@
         "openpesa/pesa": "^0.1.0",
         "spatie/laravel-package-tools": "^1.9.2"
     },
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/molefigog/pesa"
+        }
+    ],
     "require-dev": {
         "nunomaduro/collision": "^6.0",
         "nunomaduro/larastan": "^2.0.1",
